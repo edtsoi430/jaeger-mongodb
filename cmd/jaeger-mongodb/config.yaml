@@ -1,0 +1,3 @@
+mongo_url: "mongodb://10.1.15.231:27017"
+mongo_database: traces2
+mongo_collection: traces
